@@ -9,11 +9,13 @@ A collection of AI agent skills.
 OpenPay payment integration for Mexican market with card, SPEI, and OXXO support.
 
 **Install:**
+
 ```bash
-npx skills add <your-github-username>/agent-skills --skill openpay-mexico
+npx skills add ivanovishado/agent-skills --skill openpay-mexico
 ```
 
 **Use cases:**
+
 - Integrating Mexican payment processing
 - Adding OpenPay to Next.js/React apps
 - Implementing SPEI/OXXO/card payments
@@ -26,15 +28,11 @@ npx skills add <your-github-username>/agent-skills --skill openpay-mexico
 To install all skills from this repository:
 
 ```bash
-npx skills add <your-github-username>/agent-skills
+npx skills add ivanovishado/agent-skills
 ```
 
 To install a specific skill:
 
 ```bash
-npx skills add <your-github-username>/agent-skills --skill openpay-mexico
+npx skills add ivanovishado/agent-skills --skill openpay-mexico
 ```
-
-## Creating Your Own Skills
-
-Use `npx skills init` to create a new skill in this repository.
