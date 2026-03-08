@@ -8,7 +8,7 @@ description: >
   don't explicitly say "Mexican Spanish".
 license: MIT
 metadata:
-  author: igalaviz
+  author: ivanovishado
   version: "1.0"
 ---
 
